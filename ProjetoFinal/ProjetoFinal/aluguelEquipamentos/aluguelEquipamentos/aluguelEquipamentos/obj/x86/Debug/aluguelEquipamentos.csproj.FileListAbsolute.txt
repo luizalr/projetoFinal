@@ -1,0 +1,7 @@
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\bin\Debug\ConsoleApplication.exe
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\bin\Debug\ConsoleApplication.pdb
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\obj\x86\Debug\aluguelEquipamentos.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\obj\x86\Debug\aluguelEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Lucas\Desktop\Luíza\LivrosBiblioteca-master\aluguelEquipamentos\aluguelEquipamentos\aluguelEquipamentos\obj\x86\Debug\ConsoleApplication.pdb
